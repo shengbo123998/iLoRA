@@ -8,3 +8,5 @@
 
 LoRA主要更新transformer的投影矩阵：
   <img width="1354" alt="image" src="https://github.com/user-attachments/assets/ffe882c2-0767-4ea6-9501-e5b3566262d4" />
+
+保持总参数量一致： <img width="1400" alt="image" src="https://github.com/user-attachments/assets/3593d3e6-5adb-4de8-aab7-489e0f433896" />
