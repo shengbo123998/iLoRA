@@ -16,3 +16,5 @@ LoRA主要更新transformer的投影矩阵：
 
 注意维度： 整个序列输入到SR-EMB得到一个emb
 <img width="1356" alt="image" src="https://github.com/user-attachments/assets/c134ecc2-684a-4b55-af79-7059b10c7acd" />
+
+iLoRA梯度之间没有负迁移：<img width="1389" alt="image" src="https://github.com/user-attachments/assets/4853f1a3-e850-4d20-86f0-34f3575997d3" />
